@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Values version="2.0">
-  <value name="enabled">yes</value>
+  <value name="enabled">no</value>
   <value name="lazy_load">yes</value>
   <value name="system_package">no</value>
   <value name="version">1.0</value>
@@ -10,19 +10,19 @@
   <null name="shutdown_services"/>
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
-    <value name="LowerFSPackage">4.123</value>
+    <value name="LowerFSPackage">2.2</value>
   </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">5</value>
+  <value name="build">6</value>
   <null name="description"/>
   <value name="created_date">20-04-2026 02:48:56 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-04-20T02:51:32.953536213Z</value>
+  <value name="lastUpdated">2026-04-20T02:52:15.743054257Z</value>
   <value name="wmProjectId">fl4a059d1d8f9e4e15ba39e53bfe64c943</value>
   <value name="creator">Sourabh Harkawat</value>
 </Values>
